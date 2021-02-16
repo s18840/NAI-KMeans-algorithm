@@ -1,2 +1,2 @@
 # NAI-KMeans-algorithm
-Implementation of k-NN algorithm
+Implementation of K-Means algorithm
